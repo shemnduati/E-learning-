@@ -1,0 +1,18 @@
+body{
+	padding-top:50px;
+                      background-color: #cccccc;
+}
+
+.text-center{
+	text-align:center;
+}
+
+.text-upper{
+	text-transform: uppercase;
+}
+
+@media print{
+	.no-print{
+		display: none;
+	}
+}
